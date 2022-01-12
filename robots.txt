@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /translate/
+Disallow: /revise/
+Disallow: /manage/
+Disallow: /analyze/
+Disallow: /jobanalysis/
+Disallow: /editlog/
+Disallow: /wp-content/
+Disallow: /Teleport/
+Disallow: /TeleportPro/
+Disallow: /EmailCollector/
+Disallow: /EmailSiphon/
+Disallow: /WebBandit/
+Disallow: /WebZIP/
+Disallow: /WebReaper/
+Disallow: /WebStripper/
+Disallow: /Web Downloader/
+Disallow: /WebCopier/
+Disallow: /Offline Explorer Pro/
+Disallow: /Offline Explorer/
+Disallow: /HTTrack Website Copier/
+Disallow: /Offline Commander/
+Disallow: /Leech/
+Disallow: /WebSnake/
+Disallow: /BlackWidow/
+Disallow: /HTTP Weazel/
