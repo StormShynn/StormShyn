@@ -12,3 +12,14 @@ document.addEventListener("keydown", function(event){
         return false;
     }
 }, false);
+$(selector).click(function(e) {
+  if(e.shiftKey) {
+     return false;
+  }
+  if(e.ctrlKey) {
+     return false;
+  }
+  if(e.altKey) {
+     return false;
+  }
+});
